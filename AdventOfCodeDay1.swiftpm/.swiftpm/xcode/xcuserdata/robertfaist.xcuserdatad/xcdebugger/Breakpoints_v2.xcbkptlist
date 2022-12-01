@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B54AE1C6-3229-485D-A794-2F0DA03970CE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0AA5B510-86FB-4A56-81E2-2A222AD571CB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "retrieve(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0AA5B510-86FB-4A56-81E2-2A222AD571CB - ae2233dc529f6516"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AdventOfCodeDay1.WebService.retrieve(completion: (Swift.Result&lt;Swift.Array&lt;AdventOfCodeDay1.Elf&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AdventOfCodeDay1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertfaist/AdventOfCodeDay1.swiftpm/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "0AA5B510-86FB-4A56-81E2-2A222AD571CB - ae2233dc529f6516"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AdventOfCodeDay1.WebService.retrieve(completion: (Swift.Result&lt;Swift.Array&lt;AdventOfCodeDay1.Elf&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AdventOfCodeDay1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertfaist/AdventOfCodeDay1.swiftpm/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "928204A3-88D9-4AC0-AD66-F22FD71C8FE4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "retrieve(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
