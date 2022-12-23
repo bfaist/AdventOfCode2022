@@ -10,6 +10,11 @@ struct ContentView: View {
                 Spacer()
                 Text(String(viewModel.visibleTreeCount))
             }.padding(50)
+            HStack {
+                Text("Max Scenic Score: ")
+                Spacer()
+                Text(String(viewModel.highestScenicTreeScore))
+            }.padding(50)
         }.onAppear {
             viewModel.loadData()
         }
